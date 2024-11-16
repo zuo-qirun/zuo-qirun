@@ -57,7 +57,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuo-qirun"></img>
 
 <!-- dark snake -->
-![zuo-qirun's github activity graph](https://raw.githubusercontent.com/zuo-qirun/zuo-qirun/output/github-contribution-grid-snake-dark.svg)
+<!-- ![zuo-qirun's github activity graph](https://raw.githubusercontent.com/zuo-qirun/zuo-qirun/output/github-contribution-grid-snake-dark.svg) -->
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
