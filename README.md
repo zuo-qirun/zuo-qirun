@@ -71,9 +71,9 @@
 
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/zuo-qirun-->
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=zuo-qirun" width="auto"></img>
+<!--<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=zuo-qirun" width="auto"></img>-->
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/zuo-qirun-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=zuo-qirun&show-other-skills=true" width="auto"></img>
+<!--<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=zuo-qirun&show-other-skills=true" width="auto"></img>-->
 
 <!--
 **📫 How to Reach me:**
@@ -93,9 +93,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuo-qirun" alt="zuo-qirun" /></a>
 </p>
 
-   
- 
-
 <!--
 <div align="center">
 <summary>Trophy: Hackerrank Profile Trophy</summary>
@@ -114,50 +111,10 @@ width="30%">
 
 
 
-
-
-
-<!-- Belarus - My Home-->
-  
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
-     }
-   }
- ]
-}
-
-```
-
-
-![badges_37-46.png](src%2Fbadges_37-46.png)
-![badges_25-36.png](src%2Fbadges_25-36.png)
-![badges_13-24.png](src%2Fbadges_13-24.png)
-![badges_1-12.png](src%2Fbadges_1-12.png)
-
-
 #### Thanks for visiting :heart:
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/zuo-qirun/count.svg">  
-
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
 ## Star History
@@ -167,7 +124,7 @@ counting of visitors to this page in this section started from May 8, 2022
 
 
 ### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
+counting of visitors to this page in this section started from Nov 16, 2024
 
 ![](https://count.getloli.com/get/@zuo-qirun.github.readme)
 </br>
@@ -178,16 +135,5 @@ counting of visitors to this page in this section started from June 12, 2022
 </p>
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-Would you ike to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
----
-
-[for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
 
 ![](assets/Bottom_down.svg)
